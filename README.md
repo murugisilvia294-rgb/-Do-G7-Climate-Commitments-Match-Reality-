@@ -127,7 +127,8 @@ Closest to target: 120 MtCO₂ gap
 No G7 country is currently on track
 
 ## Policy Insights
-    ## The data suggests:
+
+## The data suggests:
 
 * Commitments are stronger than implementation
 
