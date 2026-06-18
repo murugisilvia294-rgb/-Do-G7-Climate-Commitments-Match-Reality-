@@ -20,15 +20,21 @@ Despite strong public commitments, no G7 country is currently on track to meet i
 ## Global climate commitments shape:
 
 International diplomacy
+
 Economic policy
+
 Energy security
+
 Development financing
 
 This project sits at the intersection of:
 
 Climate policy
+
 International relations
+
 Economic governance
+
 Data analytics
 
 ## Problem Statement
