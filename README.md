@@ -88,10 +88,13 @@ Developed an interactive dashboard showing:
 
 Features:
 
-Slicers
-Drill-through
-Bookmarks
-Reset buttons
+- Slicers
+
+- Drill-through
+
+- Bookmarks
+
+- Reset buttons
 
 ## Tier 3:Python Statistical Analysis
 Applied:
