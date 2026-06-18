@@ -148,15 +148,18 @@ No G7 country is currently on track
 
 ## Project Structure
 
-```text
 G7_Climate_Project/
 ├── data/
 ├── tier1_sheets/
+│   └── screenshots/
 ├── tier2_powerbi/
+│   ├── dashboard.pbix
+│   └── screenshots/
 ├── tier3_python/
+│   ├── notebook.ipynb
+│   └── outputs/
 ├── docs/
 └── README.md
-```
 
 ## How to Run the Project
 
