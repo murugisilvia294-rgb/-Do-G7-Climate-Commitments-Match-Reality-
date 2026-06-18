@@ -54,11 +54,11 @@ Are G7 climate commitments backed by real progress?
 ## Tools & Workflow
 
 Tools            Function
-Google Sheets 	:Data cleaning, descriptive analysis
+* Google Sheets 	:Data cleaning, descriptive analysis
 
-Power BI	      :Interactive dashboarding
+* Power BI	      :Interactive dashboarding
 
-Python	        :Regression, clustering, statistical testing
+* Python	        :Regression, clustering, statistical testing
 
 ## Methodology
 
