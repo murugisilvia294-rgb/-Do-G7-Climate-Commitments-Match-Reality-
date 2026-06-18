@@ -1,5 +1,5 @@
 # Do G7 Climate Commitments Match Reality
-From Global Pledges to Measurable Action (2015–2024)
+## From Global Pledges to Measurable Action (2015–2024)
 
 ## A Climate Policy Analytics Project
 
@@ -53,12 +53,13 @@ Are G7 climate commitments backed by real progress?
 
 ## Tools & Workflow
 
-Tools            Function
-* Google Sheets 	:Data cleaning, descriptive analysis
+| Tool | Function |
+|---|---|
+| Google Sheets | Data cleaning, descriptive analysis |
 
-* Power BI	      :Interactive dashboarding
+| Power BI | Interactive dashboarding |
 
-* Python	        :Regression, clustering, statistical testing
+| Python | Regression, clustering, statistical testing |
 
 ## Methodology
 
@@ -149,33 +150,15 @@ No G7 country is currently on track
 
 ## Project Structure
 
+```text
 G7_Climate_Project/
-
-│
 ├── data/
-│   └── g7_climate_long.csv
-
-│
 ├── tier1_sheets/
-│   └── screenshots/
-
-│
 ├── tier2_powerbi/
-│   ├── G7_Climate_Dashboard.pbix
-│   └── screenshots/
-
-│
 ├── tier3_python/
-│   ├── g7_climate_analysis.ipynb
-│   ├── requirements.txt
-│   └── outputs/
-
-│
 ├── docs/
-│   └── executive_summary.pdf
-
-│
 └── README.md
+```
 
 ## How to Run the Project
 
@@ -183,7 +166,9 @@ G7_Climate_Project/
 
 Install dependencies:
 
- pip install -r requirements.txt
+ ```bash
+pip install -r requirements.txt
+```
 
  Run the notebook:
 
