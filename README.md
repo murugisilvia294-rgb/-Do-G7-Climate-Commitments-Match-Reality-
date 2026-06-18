@@ -89,8 +89,11 @@ Reset buttons
 Applied:
 
 Correlation analysis
+
 Linear regression
+
 K-means clustering
+
 T-tests
 
 to identify patterns and quantify performance.
