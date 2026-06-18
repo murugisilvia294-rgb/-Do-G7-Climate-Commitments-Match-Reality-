@@ -10,7 +10,7 @@ This project evaluates whether those commitments align with actual emissions tre
 
 Using emissions data from 2015 to 2024, this analysis compares each G7 country's progress against its 2030 climate targets to measure policy effectiveness, accountability, and implementation gaps.
 
-The analysis combines Google Sheets, Power BI, and Python to build a multi-layered policy intelligence framework.
+The analysis combines : Google Sheets, Power BI, and Python to build a multi-layered policy intelligence framework.
 
 ## Core Finding
 Despite strong public commitments, no G7 country is currently on track to meet its 2030 target.
@@ -99,35 +99,35 @@ Features:
 ## Tier 3:Python Statistical Analysis
 Applied:
 
-Correlation analysis
+- Correlation analysis
 
-Linear regression
+- Linear regression
 
-K-means clustering
+- K-means clustering
 
-T-tests
+- T-tests
 
 to identify patterns and quantify performance.
 
-## Key Findings
+##  Key Findings
 
-🇬🇧 United Kingdom
+## 🇬🇧 United Kingdom
 Best performer: −26.1% emissions reduction
 
-🇨🇦 Canada
+## 🇨🇦 Canada
 Only country with rising emissions: +6.5%
 
-🇺🇸 United States
+## 🇺🇸 United States
 Largest target gap: 1,780 MtCO₂
 
-🇫🇷 France
+## 🇫🇷 France
 Closest to target: 120 MtCO₂ gap
 
-Overall
+## Overall
 No G7 country is currently on track
 
 ## Policy Insights
-    ###   The data suggests:
+    ## The data suggests:
 
 * Commitments are stronger than implementation
 
@@ -138,35 +138,41 @@ No G7 country is currently on track
 * Policy accountability mechanisms need strengthening
 
 ## Recommendations
-Accelerate renewable investment in high-gap countries
+* Accelerate renewable investment in high-gap countries
 
-Increase accountability for missed targets
+* Increase accountability for missed targets
 
-Replicate successful UK emissions strategies
+* Replicate successful UK emissions strategies
 
-Prioritize emissions-heavy sectors for reform
+* Prioritize emissions-heavy sectors for reform
 
 ## Project Structure
 
 G7_Climate_Project/
+
 │
 ├── data/
 │   └── g7_climate_long.csv
+
 │
 ├── tier1_sheets/
 │   └── screenshots/
+
 │
 ├── tier2_powerbi/
 │   ├── G7_Climate_Dashboard.pbix
 │   └── screenshots/
+
 │
 ├── tier3_python/
 │   ├── g7_climate_analysis.ipynb
 │   ├── requirements.txt
 │   └── outputs/
+
 │
 ├── docs/
 │   └── executive_summary.pdf
+
 │
 └── README.md
 
@@ -189,25 +195,27 @@ Explore dashboards using filters and drill-through
 
 ## Limitations
 2024 data includes estimates:
-Target baselines vary by country
 
-No GDP-adjusted emissions analysis
+* Target baselines vary by country
 
-No per-capita emissions comparison
+* No GDP-adjusted emissions analysis
 
-No sector-by-sector emissions breakdown
+* No per-capita emissions comparison
+
+* No sector-by-sector emissions breakdown
 
 ## Future Work
 Future expansions could include:
-Adding China and India for comparison
 
-Integrating GDP-adjusted emissions
+* Adding China and India for comparison
 
-Per-capita emissions analysis
+* Integrating GDP-adjusted emissions
 
-Climate finance tracking
+* Per-capita emissions analysis
 
-Sector-level emissions breakdown
+* Climate finance tracking
+
+* Sector-level emissions breakdown
 
 ## Contact
 LinkedIn: www.linkedin.com/in/silvia-murugi
