@@ -1,7 +1,7 @@
 # Do G7 Climate Commitments Match Reality
 From Global Pledges to Measurable Action (2015–2024)
 
-##A Climate Policy Analytics Project
+## A Climate Policy Analytics Project
 
 ## Executive Summary
 
@@ -19,17 +19,17 @@ Despite strong public commitments, no G7 country is currently on track to meet i
 
 ## Global climate commitments shape:
 
---International diplomacy
---Economic policy
---Energy security
---Development financing
+International diplomacy
+Economic policy
+Energy security
+Development financing
 
 This project sits at the intersection of:
 
---Climate policy
---International relations
---Economic governance
---Data analytics
+Climate policy
+International relations
+Economic governance
+Data analytics
 
 ## Problem Statement
 
@@ -39,11 +39,11 @@ The G7 countries consistently make ambitious climate pledges, but measurable pro
 Are G7 climate commitments backed by real progress?
 
 ## Objectives
---Analyze G7 emissions trends (2015–2024)
---Compare actual emissions against 2030 targets
---Measure country-level implementation gaps
---Identify leaders and laggards
---Generate policy recommendations
+Analyze G7 emissions trends (2015–2024)
+Compare actual emissions against 2030 targets
+Measure country-level implementation gaps
+Identify leaders and laggards
+Generate policy recommendations
 
 ## Tools & Workflow
 
@@ -58,26 +58,26 @@ Python	        :Regression, clustering, statistical testing
 
 Built the foundational dataset and performed:
 
---Data cleaning
---Percentage change calculations
---Target gap calculations
---Summary tables
+Data cleaning
+Percentage change calculations
+Target gap calculations
+Summary tables
 
 ## Tier 2: Power BI
 
 Developed an interactive dashboard showing:
 
---Emissions trends
---Target gaps
---Country comparisons
---Geographic distribution
+Emissions trends
+Target gaps
+Country comparisons
+Geographic distribution
 
 Features:
 
---Slicers
---Drill-through
---Bookmarks
---Reset buttons
+Slicers
+Drill-through
+Bookmarks
+Reset buttons
 
 ## Tier 3:Python Statistical Analysis
 Applied:
@@ -109,18 +109,19 @@ No G7 country is currently on track
 ## Policy Insights
 The data suggests:
 
---Commitments are stronger than implementation
---Emissions reduction remains uneven
---Some countries are structurally lagging
---Policy accountability mechanisms need strengthening
+Commitments are stronger than implementation
+Emissions reduction remains uneven
+Some countries are structurally lagging
+Policy accountability mechanisms need strengthening
 
 ## Recommendations
---Accelerate renewable investment in high-gap countries
---Increase accountability for missed targets
---Replicate successful UK emissions strategies
---Prioritize emissions-heavy sectors for reform
+Accelerate renewable investment in high-gap countries
+Increase accountability for missed targets
+Replicate successful UK emissions strategies
+Prioritize emissions-heavy sectors for reform
 
 ## Project Structure
+
 G7_Climate_Project/
 │
 ├── data/
@@ -145,15 +146,15 @@ G7_Climate_Project/
 
 ## How to Run the Project
 
-##Python
+## Python
 
-.Install dependencies:
+Install dependencies:
 
-.pip install -r requirements.txt
+ pip install -r requirements.txt
 
-.Run the notebook:
+ Run the notebook:
 
-. google Colab notebook g7_climate_analysis.ipynb
+ google Colab notebook g7_climate_analysis.ipynb
 
 ## Power BI
 Open G7_Climate_Dashboard.pbix
@@ -162,18 +163,18 @@ Explore dashboards using filters and drill-through
 
 ## Limitations
 2024 data includes estimates
---Target baselines vary by country
---No GDP-adjusted emissions analysis
---No per-capita emissions comparison
---No sector-by-sector emissions breakdown
+Target baselines vary by country
+No GDP-adjusted emissions analysis
+No per-capita emissions comparison
+No sector-by-sector emissions breakdown
 
 ## Future Work
---Future expansions could include:
---Adding China and India for comparison
---Integrating GDP-adjusted emissions
---Per-capita emissions analysis
---Climate finance tracking
---Sector-level emissions breakdown
+Future expansions could include:
+Adding China and India for comparison
+Integrating GDP-adjusted emissions
+Per-capita emissions analysis
+Climate finance tracking
+Sector-level emissions breakdown
 
 ## Contact
 LinkedIn: www.linkedin.com/in/silvia-murugi
