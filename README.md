@@ -220,6 +220,7 @@ Future expansions could include:
 
 ## Contact
 LinkedIn: www.linkedin.com/in/silvia-murugi
+
 Email:murugisilvia294@gmail.com
 
 
