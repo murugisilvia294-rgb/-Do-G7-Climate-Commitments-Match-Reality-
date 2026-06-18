@@ -64,13 +64,13 @@ Are G7 climate commitments backed by real progress?
 ## Visual Outputs
 
 ### Google Sheets
-![Summary Table](tier1_sheets/screenshots/summary_stats.png)
+![Summary Table]
 
 ### Power BI Dashboard
-![Dashboard Overview](tier2_powerbi/screenshots/dashboard_overview.png)
+![Dashboard Overview]
 
 ### Python Analysis
-![Correlation Heatmap](tier3_python/outputs/correlation_heatmap.png)
+![Correlation Heatmap]
 
 ## Tier 1: Google Sheets
 
