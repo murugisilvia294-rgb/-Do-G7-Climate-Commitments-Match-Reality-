@@ -55,7 +55,9 @@ Generate policy recommendations
 
 Tools            Function
 Google Sheets 	:Data cleaning, descriptive analysis
+
 Power BI	      :Interactive dashboarding
+
 Python	        :Regression, clustering, statistical testing
 
 ## Methodology
@@ -65,8 +67,11 @@ Python	        :Regression, clustering, statistical testing
 Built the foundational dataset and performed:
 
 Data cleaning
+
 Percentage change calculations
+
 Target gap calculations
+
 Summary tables
 
 ## Tier 2: Power BI
@@ -74,8 +79,11 @@ Summary tables
 Developed an interactive dashboard showing:
 
 Emissions trends
+
 Target gaps
+
 Country comparisons
+
 Geographic distribution
 
 Features:
